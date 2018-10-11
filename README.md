@@ -3,6 +3,10 @@ All the challenge requirements have been implemented,the user can sign up & sign
 thanks to gustavoponce7 :https://github.com/gustavoponce7/spring-login it was really a time saving 
 
 Configuration : edit 'application.properties'
+  - create the database and change credentials
+  - specify the directory where to store the pictures of the shops 
+  - specify how much time for the disliked shops to stay hidden
+  - specify max file size of the uploaded photos 
 
 Optional to read :
 
